@@ -1,4 +1,4 @@
-# engagementpuzzle
+# engagement puzzle
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -188,7 +188,7 @@
 
         .modal-view .modal-title {
             font-size: 24px;
-            color: #111;
+            color: #ffffff;
             font-weight: 500;
             line-height: 1.4;
             margin-top: 16px;
@@ -636,7 +636,11 @@
                     </div>
                 </div>
                 <div class="puzzle-reveal-text" id="puzzleRevealText">
-                    <p class="complete-line">You both truly complete each other</p>
+                    <p class="complete-line">This is from LinLin and MoMo,</p>
+                        <p class="complete-line"> 
+                        We are so happy you found your soulmate💚</p>
+                         <p class="complete-line">
+                        You both truly complete each other</p>
                     <p class="valentine-question">“From this moment to forever💚”</p>
                     <button type="button" class="yes-only-btn" id="yesBtn">Next: Forever💍</button>
                 </div>
@@ -644,7 +648,7 @@
 
             <!-- VIEW: Success -->
             <div id="successView" class="modal-view">
-                <p class="modal-title">Yay, I can't wait!</p>
+                <p class="modal-title">Yay, We can't wait for BB's big day💚</p>
                 <div class="success-gif-wrap">
                     <img src="giphy.gif" alt="" />
                 </div>
