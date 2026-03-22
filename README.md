@@ -188,7 +188,7 @@
 
         .modal-view .modal-title {
             font-size: 24px;
-            color: #ffffff;
+            color: #000000;
             font-weight: 500;
             line-height: 1.4;
             margin-top: 16px;
